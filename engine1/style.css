@@ -281,8 +281,8 @@
     background-position: 100% 100% !important;
 }/* bottom center */
 #wowslider-container1  .ws_bullets {
-    bottom:-24px;
-	left:50%;
+	bottom: -24px;
+	left: 315px;
 }
 #wowslider-container1  .ws_bullets div{
 	left:-50%;
